@@ -1,5 +1,5 @@
 <?php
-namespace Continental\RMDX\Utils;
+namespace Domoran\PHPOok; 
 
 class BF {
         protected $data = array(0);
